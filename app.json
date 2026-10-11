@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Mobcast RE",
+    "slug": "mobcast-re",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F7F7F2"
+      }
+    },
+    "plugins": [
+      "expo-font",
+      "expo-status-bar",
+      [
+        "expo-splash-screen",
+        {
+          "resizeMode": "contain",
+          "backgroundColor": "#FFF8F1"
+        }
+      ]
+    ]
+  }
+}
