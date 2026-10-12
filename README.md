@@ -1,4 +1,4 @@
-<img width="1179" height="2556" alt="img4" src="https://github.com/user-attachments/assets/bc5997ba-ee7d-4d14-ae87-d8130aeeb9eb" /><img width="1179" height="2556" alt="img3" src="https://github.com/user-attachments/assets/b30bbd74-470d-4d8c-ab61-0d241edac364" /><img width="1179" height="2556" alt="img3" src="https://github.com/user-attachments/assets/9b5dded6-6acd-4075-8cdd-d923ad5d4fb8" /># Mobcast RE
+# Mobcast RE
 
 A premium, modern **Expo + React Native + TypeScript** meal recipe application designed for smooth cross-platform performance. Browse categories, search recipes, view detailed ingredients and instructions, save favourites locally, and enjoy automatic device-aware dark mode mapping.
 
